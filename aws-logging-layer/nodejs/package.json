@@ -1,0 +1,14 @@
+{
+  "name": "aws-logging-layer",
+  "version": "1.0.0",
+  "description": "A AWS Lambda layer for Pino log configuration",
+  "main": "logger.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Siaw Yoon Kean",
+  "license": "ISC",
+  "dependencies": {
+    "pino-lambda": "^3.0.0"
+  }
+}

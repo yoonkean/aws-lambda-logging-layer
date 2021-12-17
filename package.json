@@ -1,0 +1,10 @@
+{
+  "name": "aws-lambda-logging-layer",
+  "version": "1.0.0",
+  "description": "A repositoring constaining both lambda functions and lambda layer deployment",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Siaw Yoon Kean",
+  "license": "ISC"
+}
